@@ -114,10 +114,3 @@ for i in range(0,miktar):
     rndSesli=sesliharfler[random.randint(0,7)]
     kelime.append(rndSesli)
 print(kelime)
-
-
-
-
-
-
-
