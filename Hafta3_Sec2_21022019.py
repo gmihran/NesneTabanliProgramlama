@@ -1,4 +1,4 @@
-#https://repl.it/languages/python3 ile oluþturuldu.
+#https://repl.it/languages/python3 ile oluÅ£turuldu.
 print("Merhaba")
 a=10
 print(a)
@@ -41,7 +41,7 @@ a={1,2,3,4}
 print(a)
 a.add(10)
 print(a)
-a.add("Kavacýk")
+a.add("KavacÃ½k")
 print(a)
 print(5/3)
 print(5//3)
@@ -54,9 +54,9 @@ a=4
 print(-a)
 a=-a
 print(a)
-a='Gözde\'nin bugün dersi var'
+a='GÃ¶zde\'nin bugÃ¼n dersi var'
 print(a)
-a='Gözde \t nin bugün dersi var'
+a='GÃ¶zde \t nin bugÃ¼n dersi var'
 print(a)
 print(len(a))
 a="Beykoz"
@@ -74,5 +74,3 @@ print("{2} {0} {1}".format(a,b,c))
 print("{:10.2f}".format(a))
 print("{:10.2f}".format(b))
 print("{:10.2f}".format(c))
-
-
