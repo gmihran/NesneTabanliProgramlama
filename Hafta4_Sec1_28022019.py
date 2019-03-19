@@ -224,10 +224,3 @@ if (durum):
     print("Tebrikler. Bildiniz.Kelime=",rastgele)
 else:
     print("Bilemediniz.Kelime=",rastgele)
-            
-
-
-
-
-
-
