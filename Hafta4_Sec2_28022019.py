@@ -161,16 +161,3 @@ if (sonuc==True):
     print("Bildiniz... Kelime:",rastgele)
 else:
     print("Kaybettiniz... Kelime:",rastgele)
-
-
-
-
-
-
-
-
-
-
-
-
-
