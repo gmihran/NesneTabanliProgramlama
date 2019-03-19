@@ -12,7 +12,7 @@ programı Python diliyle kodlayınız.
 Ör: Beykoz kelimesi klavyeden girildiğinde; 
 B1e2y3k4o5z6 şeklinde çıktı verecektir.
 """
-"""
+
 kelime=input("Bir kelime giriniz:")
 #print(type(kelime))
 liste=[]
@@ -20,7 +20,7 @@ for i in range(0,len(kelime)):
     liste.append(kelime[i])
     liste.append(i+1)
 print(liste)
-"""
+
 
 """
 Klavyeden girilen kelimenin içinde bulunan sesli harflerden 
@@ -37,7 +37,7 @@ a-->2
 i-->2
 """
 
-"""
+
 kelime=input("Bir kelime giriniz:")
 sesliharfler=["a","e","ı","i","o","ö","u","ü"]
 miktar=[]
@@ -56,7 +56,7 @@ print(miktar)
 for i in range(0,len(miktar)):
     if (miktar[i]!=0):
         print(sesliharfler[i],"-->",miktar[i])
-"""
+
 """
 Taş - Kağıt - Makas Oyunu
 Bilgisayar taş, kağıt ve makas değerlerinden 
@@ -92,7 +92,7 @@ atar.
 #1-2
 #3-1
 #2-3
-"""
+
 import random
 pcskor=0
 kullanıcıskor=0
@@ -119,7 +119,7 @@ if (kullanıcıskor>pcskor):
     print("Oyun Bitti! Tebrikler yendiniz...")
 else:
     print("Oyun Bitti! Yenildiniz...")
-"""
+
 
 
 """
