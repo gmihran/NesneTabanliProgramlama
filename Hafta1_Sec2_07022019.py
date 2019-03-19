@@ -110,8 +110,3 @@ elif(cinsiyet=="ERKEK" or cinsiyet=="E"):
     print(idealkilo,"\n",idealkilo2)
 else:
     print("Hatalı Giriş")
-
-
-
-
-
