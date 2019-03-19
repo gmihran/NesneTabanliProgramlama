@@ -5,7 +5,7 @@ Created on Thu Feb  7 09:30:00 2019
 @author: gozdemihranaltinsoy
 """
 
-"""
+
 print("Merhaba")
 a=10
 print("a=",a)
@@ -71,7 +71,7 @@ else:
     print("Sayı negatif ve tek")
 if(sayı>0 and (sayı%2==0 or sayı%3==0)):
     print(sayı)
-"""
+
 #Klavyeden metre cinsinden girilen uzunluğu
 #seçilen birime dönüştüren program
 #Seçenekler: 1-mm 2-cm 3-dm 4-km ?
@@ -79,7 +79,7 @@ if(sayı>0 and (sayı%2==0 or sayı%3==0)):
 #cm=100*uzunluk
 #dm=10*uzunluk
 #km=uzunluk/1000
-"""
+
 uzunluk=int(input("Uzunluk(m):"))
 print("1-mm 2-cm 3-dm 4-km :?")
 seçim=int(input("Seçiminiz:"))
@@ -93,9 +93,9 @@ elif(seçim==4):
     print(uzunluk/1000,"km")
 else:
     print("Hatalı seçim")
-"""
 
-"""
+
+
 cinsiyet=input("Cinsiyet:")
 cinsiyet=cinsiyet.upper() 
 #upper --> Metni büyük harfe dönüştürür
@@ -104,7 +104,7 @@ if (cinsiyet=="K" or cinsiyet=="KADIN"):
     print("Kadın")
 else:
     print("Erkek")
-"""
+
 #İdeal kiloyu hesaplayan program
 #Beden kütle indeksi: kilo/((boy*boy)/10000)
 
@@ -114,7 +114,7 @@ else:
 #Yaş klavyeden girilecek
 #Kadın: Yöntem2 --> (boy-100+yaş/10)*0.8
 #Erkek: Yöntem2 --> (boy-100+yaş/10)*0.9
-"""
+
 boy=eval(input("Boyunuz:"))
 cinsiyet=input("Cinsiyet:")
 cinsiyet=cinsiyet.upper(); 
@@ -130,7 +130,7 @@ print("ideal kilonuz:",idealkilo)
 print("İdeal kilo:",idealkilo2)
 kilo=eval(input("Kilo:"))
 print("Vücut kitle indeksi:",kilo/((boy*boy)/10000))
-"""
+
 """
 Ödev-1:
 Klavyeden girilen pozitif tamsayıyı tersten
