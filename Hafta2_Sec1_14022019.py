@@ -4,42 +4,42 @@ Created on Thu Feb 14 09:08:27 2019
 
 @author: gozdemihranaltinsoy
 """
-"""
+
 x=input("sayı:")
 print(x[::-1])
-"""
+
 # Girilen sayıyı tersten yazdıran program
-"""
+
 sayı=eval(input("Sayı:"))
 while(sayı>0):
     print(sayı%10,end="")
     #end="" ifadesi değerleri yanyana yazdırdı
     sayı=int(sayı/10)
-"""
+
 #Girilen sayının tam sayı olup olmadığını yazdıralım
-"""
+
 sayı=eval(input("Sayı:"))
 sayı2=int(sayı)
 if(sayı==sayı2):
     print("Sayı tamsayıdır.")
 else:
     print("Sayı tamsayı değildir.")
-"""
+
 #1'den 100'e kadar olan sayılardan 
 #tek olanları ekrana yazdıralım
-"""
+
 sayı=1
 while(sayı<=100):
     if(sayı%2==1):
         print(sayı)
     sayı=sayı+1
-"""  
-"""  
+
+
 print(*range(1,100,2))
-"""
+
 #Girilen 2 sayının birbirine bölünüp
 #bölünmediğini veren program
-"""
+
 s1=eval(input("Sayı:"))
 s2=eval(input("Sayı:"))
 if (s2>s1):
@@ -51,10 +51,10 @@ if(s1%s2==0):
     print("TAM BÖLÜNÜR")
 else:
     print("TAM BÖLÜNMEZ")
-"""
+
 #Girilen bir sayının tam bölenlerini
 #ekrana yazdıran program
-"""
+
 sayı=eval(input("Sayı:"))
 sayı=int(sayı)
 bol=1
@@ -70,14 +70,14 @@ sayı=int(sayı)
 for bol in range(1,sayı+1):
     if(sayı%bol==0):
         print(bol)
-"""
+
 #Bir sayının mükemmel sayı olup olmadığını
 #bulan program
 #Mükemmel sayı: Kendisi dışında
 #kendisine tam bölünen sayıların toplamı
 #kendisine eşit olan sayılar
 #Mükemmel sayı ör: 6, 28, 496, 8128
-"""
+
 sayı=eval(input("Sayı:"))
 sayı=int(sayı)
 toplam=0
@@ -90,11 +90,11 @@ if(toplam==sayı):
     print("Sayı mükemmel bir sayıdır")
 else:
     print("Sayı mükemmel bir sayı değildir")
-"""
+
 #Kullanıcıdan alınan 4 kenar bilgisine
 #göre şeklin dikdörtgen, kare veya
 #diğer dörtgen olduğunu söylesin
-"""
+
 a=input("1.kenar:")
 b=input("2.kenar:")
 c=input("3.kenar:")
@@ -106,7 +106,7 @@ elif(a==b!=c==d or a==c!=b==d or a==d!=b==c):
     print("Şekil dikdörtgendir.")
 else:
     print("Şekil yamuktur.")
-"""
+
 #Çarpım tablosu
 """
     1*1=1
@@ -120,12 +120,12 @@ else:
     ...
     10*10=100
 """
-"""
+
 for i in range(1,11):
     for j in range(1,11):
         #print("{}*{}={}".format(i,j,i*j))
         print(i,"*",j,"=",i*j)
-"""
+
 
 #Girilen ismin harflerini alt alta yazdıran program
 isim=input("ismi giriniz:")
@@ -184,11 +184,3 @@ print("*".join(isim))
 #Kelimenin Palindrom olup olmadığını bulan program
 #kelimenin tersten okunuşu kendisiyle aynı mı?
 #ör kayak, ey edip adanada pide ye, kek
-
-#Ödev-2
-
-
-
-
-
-
