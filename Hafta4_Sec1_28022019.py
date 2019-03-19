@@ -11,14 +11,14 @@ programı Python diliyle kodlayınız.
 Ör: Beykoz kelimesi klavyeden girildiğinde; 
 B1e2y3k4o5z6 şeklinde çıktı verecektir.
 """
-"""
+
 kelime=input("Bir kelime giriniz:")
 kelime2=[]
 for i in range(0,len(kelime)):
     kelime2.append(kelime[i])
     kelime2.append(i+1)
 print(kelime2)
-"""
+
 
 """
 Klavyeden girilen kelimenin içinde bulunan sesli harflerden 
@@ -35,7 +35,7 @@ a-->2
 i-->2
 """
 
-"""
+
 kelime=input("Bir kelime giriniz:")
 sesliharfler=["a","e","ı","i","o","ö","u","ü"]
 bulunansesliharfler=[]
@@ -62,7 +62,7 @@ for i in range(0,len(miktar)):
 print("Tüm Değerler:\n")
 for i in range(0,len(miktar)):
     print(sesliharfler[i],"-->",miktar[i])
-"""
+
 
 """
 Taş - Kağıt - Makas Oyunu
@@ -100,7 +100,7 @@ atar.
 #2-1
 #1-3
 #3-2
-"""
+
 import random
 kullanıcıskor=0
 pcskor=0
@@ -127,7 +127,7 @@ if (kullanıcıskor>pcskor):
     print("Oyun Sona Erdi...TEBRİKLER Yendiniz!")
 else:
     print("Oyun Sona Erdi...YENİLDİNİZ!")
-"""
+
 
 """
 Adam Asmaca Oyunu
@@ -135,7 +135,7 @@ Kelimeler arasından rastgele seçim yapılacak
 Kullanıcı kelimelerin harflerini bulmaya çalışacak
 """
 
-"""
+
 #6 harfli kelimeler listesi oluşturalım
 import random
 kelimeler=["BEYKOZ","KLAVYE","KELİME","PEYNİR","MATKAP","KOLTUK","GÖZLÜK","PYTHON","ANKARA","YALOVA"]
@@ -156,7 +156,7 @@ while True:
             kelime[i]="-"
     if (kontrol==False):
         hak-=1
-"""
+
 
 """        
     KOLTUK
@@ -168,7 +168,7 @@ while True:
     ------
 """
 
-"""
+
     durum=True
     for i in kelime:
         if (i!="-"):
@@ -180,7 +180,7 @@ if (durum==True):
     print("Tebrikler. Bildiniz.Kelime=",rastgele)
 else:
     print("Bilemediniz.Kelime=",rastgele)
-"""
+
 
 #Versiyon 2
 #6 harfli kelimeler listesi oluşturalım
