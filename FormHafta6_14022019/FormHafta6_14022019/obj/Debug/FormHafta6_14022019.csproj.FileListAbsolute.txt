@@ -1,0 +1,10 @@
+C:\Users\gozdemihranaltinsoy\source\repos\FormHafta6_14022019\FormHafta6_14022019\bin\Debug\FormHafta6_14022019.exe.config
+C:\Users\gozdemihranaltinsoy\source\repos\FormHafta6_14022019\FormHafta6_14022019\bin\Debug\FormHafta6_14022019.exe
+C:\Users\gozdemihranaltinsoy\source\repos\FormHafta6_14022019\FormHafta6_14022019\bin\Debug\FormHafta6_14022019.pdb
+C:\Users\gozdemihranaltinsoy\source\repos\FormHafta6_14022019\FormHafta6_14022019\obj\Debug\FormHafta6_14022019.csprojAssemblyReference.cache
+C:\Users\gozdemihranaltinsoy\source\repos\FormHafta6_14022019\FormHafta6_14022019\obj\Debug\FormHafta6_14022019.Form1.resources
+C:\Users\gozdemihranaltinsoy\source\repos\FormHafta6_14022019\FormHafta6_14022019\obj\Debug\FormHafta6_14022019.Properties.Resources.resources
+C:\Users\gozdemihranaltinsoy\source\repos\FormHafta6_14022019\FormHafta6_14022019\obj\Debug\FormHafta6_14022019.csproj.GenerateResource.cache
+C:\Users\gozdemihranaltinsoy\source\repos\FormHafta6_14022019\FormHafta6_14022019\obj\Debug\FormHafta6_14022019.csproj.CoreCompileInputs.cache
+C:\Users\gozdemihranaltinsoy\source\repos\FormHafta6_14022019\FormHafta6_14022019\obj\Debug\FormHafta6_14022019.exe
+C:\Users\gozdemihranaltinsoy\source\repos\FormHafta6_14022019\FormHafta6_14022019\obj\Debug\FormHafta6_14022019.pdb
