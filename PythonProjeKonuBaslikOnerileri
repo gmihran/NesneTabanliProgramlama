@@ -1,0 +1,40 @@
+# Python Proje Konu Başlık Önerileri
+Nesne Tabanlı bir programlama dili ile proje yapılabilir.
+
+1.Takip Sistemi (Bir veya birden fazla modül)
+	Personel 
+		Maaş
+		Satış
+		Pazarlama
+		Üretim
+		Özlük işleri
+	Öğrenci
+	Araç satış
+	Müşteri
+	Kütüphane
+	Eczane
+	Araç kiralama
+Vb.
+2.Web sitesi
+3.Web sitesinin veri tabanı ile bağlantısını kurma
+4.Chat bot
+5.Görüntü işleme
+6.Veri analizi (Veriyi anlamlı hale getirme, atmasyon bir veri de olabilir)
+7.Üyelik sistemi
+8.Oyun yazılımı (İçinde kod barındıran ve internet üzerinden erişemeyeceğim ve basit bir çalışma olmamalı mesela taş kağıt makas olmamalı)
+9.Güvenlik üzerine bir çalışma
+	Web Sitesi Güvenlik Kontrolleri 
+10.Algoritma üzerine analiz
+	Sıralama algoritma analizi 
+			Ne kadar sürede sıraladı (Hız)
+			Sıralama adımlarının çıkarımı (Nasıl)
+			Hafızada ne kadar yer tuttu
+11.Çalıştığı işletim sistemi çözüp bu işletim sistemine göre belli metodları çalıştan uygulama
+12.Yönetim paneli
+13.API Kullanımı 
+14.API ile Kare Kod Oluşturma
+15.Basit Bir Blog Sitesi Oluşturma 
+16.vb.
+
+
+			
